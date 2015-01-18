@@ -1,6 +1,6 @@
 # regionthree
 
-region free loader for 3DS/3DSXL/2DS on firmware versions 9.0-9.4
+region free loader for 3DS/3DSXL/2DS on firmware versions 4.0-9.4
 this also allows you to bypass mandatory gamecard firmware updates
 
 loads games from other regions and runs them in YOUR language if possible !
@@ -43,8 +43,9 @@ To build the ROP, use Kingcom's armips assembler https://github.com/Kingcom/armi
 
 ### Credits
 
-- All ROP and code written on this repo written by smea
+- All original ROP and code on this repo written by smea
 - ns:s region free booting trick found by yellows8
 - Neatly packaged spider exploit by Gateway
 - Bond697, sm, yifanlu for working on the GW payload so I wouldn't have to.
 - Myria for helping with testing.
+- sbJFn5r for porting the ROP to 4.x firmware versions
