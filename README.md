@@ -1,6 +1,6 @@
 # regionthree
 
-region free loader for 3DS/3DSXL/2DS on firmware versions 4.0-9.4
+region free loader for 3DS/3DSXL/2DS on firmware versions 4.0-9.5
 this also allows you to bypass mandatory gamecard firmware updates
 
 loads games from other regions and runs them in YOUR language if possible !
